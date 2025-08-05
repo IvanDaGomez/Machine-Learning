@@ -1,0 +1,18 @@
+total 429160
+-rw-r--r--@  1 ivandavidgomezsilva  staff        555 Aug  5 17:46 s.py
+-rw-r--r--@  1 ivandavidgomezsilva  staff       2483 Feb 15 20:46 README.md
+drwxr-xr-x@ 19 ivandavidgomezsilva  staff        608 Jul 17 11:58 QRs
+-rw-r--r--@  1 ivandavidgomezsilva  staff        954 Jul 17 15:24 QR.py
+drwxr-xr-x@ 15 ivandavidgomezsilva  staff        480 Feb  4  2025 NN
+-rw-r--r--@  1 ivandavidgomezsilva  staff       1797 Aug  5 17:47 lambda.py
+drwxr-xr-x@  5 ivandavidgomezsilva  staff        160 Jun 15 18:35 lambda
+-rw-r--r--@  1 ivandavidgomezsilva  staff          0 Aug  5 17:52 info.txt
+drwxr-xr-x@  8 ivandavidgomezsilva  staff        256 Mar  1 18:51 generativeAI
+-rw-r--r--@  1 ivandavidgomezsilva  staff        626 Feb  4  2025 firstTry.py
+-rw-r--r--@  1 ivandavidgomezsilva  staff       2117 Feb  4  2025 firstData.py
+-rw-r--r--@  1 ivandavidgomezsilva  staff          0 Feb  4  2025 firstClassifier.py
+drwxr-xr-x@  8 ivandavidgomezsilva  staff        256 Aug  5 17:39 data_science_tutorial
+drwxr-xr-x@  5 ivandavidgomezsilva  staff        160 Apr  5 07:57 bookStore
+drwxr-xr-x@  3 ivandavidgomezsilva  staff         96 Jul 17 21:14 automate_with_python_tutorial
+-rw-r--r--@  1 ivandavidgomezsilva  staff  219704716 Feb 15 17:47 Archivo.zip
+drwxr-xr-x@ 14 ivandavidgomezsilva  staff        448 Apr  5 07:20 animateDiff

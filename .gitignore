@@ -1,0 +1,12 @@
+NN/firstTransformer/data/
+.DS-Store
+.venv/
+*data/
+*data/*
+*.DS_Store/*
+Archivo.zip
+*.png
+*.jpg
+*.jpeg
+.env
+*/.env

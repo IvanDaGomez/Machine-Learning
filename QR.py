@@ -2,8 +2,8 @@ import qrcode
 from PIL import Image
 
 # Datos del QR
-url = 'https://wa.me/573123334556'
-text = 'Monica Phone'
+url = 'www.github.com/IvanDaGomez/chatGPTDesdeCero'
+text = 'GPTFromScratch'
 # Ruta del logo
 logo_path = "QRs/WhatsApp.png"
 
@@ -33,7 +33,7 @@ logo = logo.resize((logo_size, logo_size))
 pos = ((qr_width - logo_size) // 2, (qr_height - logo_size) // 2)
 
 # Pega el logo sobre el QR
-qr_img.paste(logo, pos, mask=logo if logo.mode == 'RGBA' else None)
+# qr_img.paste(logo, pos, mask=logo if logo.mode == 'RGBA' else None)
 
 # Guarda el resultado
 qr_img.save("QRs/" + text + '.png')
